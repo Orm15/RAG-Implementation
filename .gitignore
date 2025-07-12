@@ -1,0 +1,29 @@
+# Entorno virtual
+venvBase/
+.venv/
+env/
+ENV/
+venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de bases de datos y almacenamiento local
+*.sqlite3
+chrome_langchain_db/
+
+# Archivos de configuración y variables de entorno
+.env
+*.env
+
+# Archivos de logs
+*.log
+
+# Archivos de usuario de VSCode
+.vscode/
+
+# Otros
+.DS_Store
+Thumbs.db
